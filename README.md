@@ -18,7 +18,6 @@ Python – Data import & aggregation scripts
 PyMongo – MongoDB connectivity
 
 👤 Author
-
-Eshat
+Eshat <href = https://github.com/eshat69> <href>
 CSE Student | Data & ML Enthusiast
 Hybrid SQL & NoSQL Projects
