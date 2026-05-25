@@ -22,7 +22,9 @@ victim demographic insights, and public safety research.
     <li>Crime frequency analytics</li>
     <li>City/state crime comparison</li>
     <li>Crime rate reporting</li>
+    <li>Behavioral pattern detection in crime records</li>
     <li>Community safety research support</li>
+ 
 </ul>
 
 <hr>
@@ -70,7 +72,7 @@ SOURCE database/sample_data.sql;
 
 <hr>
 
-<h2>⚙️ Database Schema</h2>
+<h2>⚙️ Database Schema for crime safety folder </h2>
 
 <pre>
 
@@ -87,10 +89,32 @@ CREATE TABLE crime_records (
     victim_race VARCHAR(20)
 );
 </pre>
+<h2>⚙️ Database Schema for crime data folder </h2>
 
+<pre>
+
+CREATE DATABASE crime_db;
+USE crime_db;
+
+CREATE TABLE crime_raw (
+    Disposition VARCHAR(100),
+    OffenderStatus VARCHAR(50),
+    Offender_Race VARCHAR(50),
+    Offender_Gender VARCHAR(20),
+    Offender_Age INT,
+    PersonType VARCHAR(50),
+    Victim_Race VARCHAR(50),
+    Victim_Gender VARCHAR(20),
+    Victim_Age INT,
+    Victim_Fatal_Status VARCHAR(50),
+    Report_Type VARCHAR(50),
+    Category VARCHAR(100)
+);
+select * from crime_raw ;
+</pre>
 <hr>
 
-<h2>📸 Output Screenshots Section</h2>
+<h2>📸 Output Screenshots Section for crime safefy folder </h2>
 
 <h3>Crime Frequency Dashboard</h3>
 <p><b>What is the average victim age per crime type?</b></p>
@@ -114,4 +138,17 @@ CREATE TABLE crime_records (
   <code>Crime Rate = (Total Crimes / Total Population) × 100,000</code>
 </p>
 <img width="349" height="208" alt="image" src="https://github.com/user-attachments/assets/df31f334-7737-42f2-8a71-a3af9d054ac7" />
+---
+<h2>📸 Output Screenshots Section for crime data folder </h2>
+<h3>Frequency Dashboard </h3>
+<p><b>-- How many types of report ?</b></p>
+<img width="196" height="60" alt="image" src="https://github.com/user-attachments/assets/906eaf90-6667-490f-aacd-0dd24319dc0e" />
+<h3>Cleaning  </h3>
+<p><b> Identifying Data Duplication</b></p>
+<img width="1158" height="283" alt="image" src="https://github.com/user-attachments/assets/d285de53-135a-46d2-9a95-de482fee1719" />
+<p><b> Offender Demographic Profile</b></p>
+<img width="543" height="199" alt="image" src="https://github.com/user-attachments/assets/ca939fd2-e4bb-4edb-b665-4a0db1ccdebb" />
+
+<p><b> Incident Category Breakdown</b></p>
+<img width="325" height="129" alt="image" src="https://github.com/user-attachments/assets/730cf72f-815f-4dc5-aaa4-69812a1c8fe1" />
 
