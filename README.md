@@ -126,7 +126,7 @@ src="https://github.com/user-attachments/assets/bfa7e0cf-9fab-4723-a9cc-3c51cb8e
 <p><b>Which gender is most affected by crimes? </b></p>
 <img 
 width="200"
-height="200"
+height="180"
 alt="Crimes per city"
 src="https://github.com/user-attachments/assets/2f679d06-dcd1-4810-9fc0-6b31e3ac6d78" />
 
