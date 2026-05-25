@@ -1,14 +1,11 @@
 
 <h1>🕵️ Crime Records Hybrid Database Project</h1>
----
-```html
-<img src="https://img.shields.io/github/repo-size/eshat69/crime-records-hybrid-db" alt="GitHub repo size" />
-<img src="https://img.shields.io/github/languages/top/eshat69/crime-records-hybrid-db" alt="GitHub language" />
-<img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="License" />
-<img src="https://img.shields.io/badge/Version-1.0.0-orange?style=flat-square" alt="Version" />
-<img src="https://img.shields.io/github/issues/eshat69/crime-records-hybrid-db" alt="Issues" />
----
 
+![Repo Size](https://img.shields.io/github/repo-size/eshat69/crime-records-hybrid-db) 
+![Top Language](https://img.shields.io/github/languages/top/eshat69/crime-records-hybrid-db) 
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square) 
+![Issues](https://img.shields.io/github/issues/eshat69/crime-records-hybrid-db)
+ ---
 <p>
 A SQL-based crime records management and analytics project designed for crime analysis,
 victim demographic insights, and public safety research.
@@ -128,13 +125,17 @@ src="https://github.com/user-attachments/assets/bfa7e0cf-9fab-4723-a9cc-3c51cb8e
 <br><br>
 <p><b>Which gender is most affected by crimes? </b></p>
 <img 
-width="289"
-height="305"
+width="200"
+height="200"
 alt="Crimes per city"
 src="https://github.com/user-attachments/assets/2f679d06-dcd1-4810-9fc0-6b31e3ac6d78" />
 
 <h3>Geomatrical analyysis </h3>
 <br><br>
 <p><b>Which city has the highest crime rate?</b></p>
+<p>
+  <strong>Crime Rate Formula:</strong> 
+  <code>Crime Rate = (Total Crimes / Total Population) × 100,000</code>
+</p>
 <img width="349" height="208" alt="image" src="https://github.com/user-attachments/assets/df31f334-7737-42f2-8a71-a3af9d054ac7" />
 
