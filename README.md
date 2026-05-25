@@ -149,6 +149,8 @@ select * from crime_raw ;
 <p><b> Offender Demographic Profile</b></p>
 <img width="543" height="199" alt="image" src="https://github.com/user-attachments/assets/ca939fd2-e4bb-4edb-b665-4a0db1ccdebb" />
 
-<p><b> Incident Category Breakdown</b></p>
+<p><b>Clearance Rate Analysis</b></p>
 <img width="325" height="129" alt="image" src="https://github.com/user-attachments/assets/730cf72f-815f-4dc5-aaa4-69812a1c8fe1" />
-
+<p><b> Incident Category Breakdown</b></p>
+<img width="141" height="61" alt="image" src="https://github.com/user-attachments/assets/1faaa215-c9cc-4517-93e7-ebc1519e39b2" />
+<img width="478" height="136" alt="image" src="https://github.com/user-attachments/assets/67e14da1-a4db-4b9c-a37a-f03afeda9053" />
