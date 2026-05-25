@@ -93,42 +93,22 @@ CREATE TABLE crime_records (
 <h2>📸 Output Screenshots Section</h2>
 
 <h3>Crime Frequency Dashboard</h3>
-
 <p><b>What is the average victim age per crime type?</b></p>
-<img 
-width="419"
-height="303"
-alt="Average victim age per crime type"
-src="https://github.com/user-attachments/assets/645f299f-8814-4095-a333-35403f7a6c6f"
-/>
+<img width="280" height="203" alt="image" src="https://github.com/user-attachments/assets/77084d01-a859-4429-bcb0-832c2f6a817a" />
 <br><br>
 
 <p><b>How many crimes happened per city?</b></p>
-<img 
-width="289"
-height="305"
-alt="Crimes per city"
-src="https://github.com/user-attachments/assets/999ac0e6-0ace-42a5-bf8e-c7a268a3825b"
-/>
+<img width="159" height="201" alt="image" src="https://github.com/user-attachments/assets/83140a5c-e3d9-4ae7-a38a-e7f6205a8827" />
+
 <br><br>
-
 <p><b>How many crimes occurred per state?</b></p>
-<img 
-width="191"
-height="200"
-alt="Crimes per state"
-src="https://github.com/user-attachments/assets/bfa7e0cf-9fab-4723-a9cc-3c51cb8e2b26"
-/>
-<hr>
+<img width="123" height="127" alt="image" src="https://github.com/user-attachments/assets/682d1d7c-c084-459a-acd8-3d522d99d2b2" />
 
+<br><br>
 <h3>Victim Analysis</h3>
 <br><br>
 <p><b>Which gender is most affected by crimes? </b></p>
-<img 
-width="200"
-height="180"
-alt="Crimes per city"
-src="https://github.com/user-attachments/assets/2f679d06-dcd1-4810-9fc0-6b31e3ac6d78" />
+<img width="156" height="95" alt="image" src="https://github.com/user-attachments/assets/4034663a-c22d-4f80-a5cf-44cb1b4fffb2" />
 
 <h3>Geomatrical analyysis </h3>
 <br><br>
