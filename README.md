@@ -90,58 +90,43 @@ CREATE TABLE crime_records (
 <h3>Crime Frequency Dashboard</h3>
 
 <p><b>What is the average victim age per crime type?</b></p>
-
 <img 
 width="419"
 height="303"
 alt="Average victim age per crime type"
 src="https://github.com/user-attachments/assets/645f299f-8814-4095-a333-35403f7a6c6f"
 />
-
 <br><br>
 
 <p><b>How many crimes happened per city?</b></p>
-
 <img 
 width="289"
 height="305"
 alt="Crimes per city"
 src="https://github.com/user-attachments/assets/999ac0e6-0ace-42a5-bf8e-c7a268a3825b"
 />
-
 <br><br>
 
 <p><b>How many crimes occurred per state?</b></p>
-
 <img 
 width="191"
 height="200"
 alt="Crimes per state"
 src="https://github.com/user-attachments/assets/bfa7e0cf-9fab-4723-a9cc-3c51cb8e2b26"
 />
-
 <hr>
 
-<h2>🤝 Contribution</h2>
+<h3>Victim Analysis</h3>
+<br><br>
+<p><b>Which gender is most affected by crimes? </b></p>
+<img 
+width="289"
+height="305"
+alt="Crimes per city"
+src="https://github.com/user-attachments/assets/2f679d06-dcd1-4810-9fc0-6b31e3ac6d78" />
 
-<p>
-Contributions and improvements are welcome.
-Fork the repository and submit a pull request.
-</p>
+<h3>Geomatrical analyysis </h3>
+<br><br>
+<p><b>Which city has the highest crime rate?</b></p>
+<img width="349" height="208" alt="image" src="https://github.com/user-attachments/assets/df31f334-7737-42f2-8a71-a3af9d054ac7" />
 
-
-## Crime Frequency Dashboard
--- What is the average victim age per crime type? 
-<img width="419" height="303" alt="image" src="https://github.com/user-attachments/assets/645f299f-8814-4095-a333-35403f7a6c6f" />
--- How many crimes happened per city?
-<img width="289" height="305" alt="image" src="https://github.com/user-attachments/assets/999ac0e6-0ace-42a5-bf8e-c7a268a3825b" />
--- How many crimes occurred per state?
-<img width="191" height="200" alt="image" src="https://github.com/user-attachments/assets/bfa7e0cf-9fab-4723-a9cc-3c51cb8e2b26" />
-
-![Crime Frequency](outputs/screenshots/crime_frequency.png)
-
-## Victim Analysis Output
-![Victim Analysis](outputs/screenshots/victim_analysis.png)
-
-## Crime Rate by City
-![Crime Rate](outputs/screenshots/city_crime_rate.png)
