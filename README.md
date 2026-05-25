@@ -1,5 +1,13 @@
 
 <h1>🕵️ Crime Records Hybrid Database Project</h1>
+---
+```html
+<img src="https://img.shields.io/github/repo-size/eshat69/crime-records-hybrid-db" alt="GitHub repo size" />
+<img src="https://img.shields.io/github/languages/top/eshat69/crime-records-hybrid-db" alt="GitHub language" />
+<img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="License" />
+<img src="https://img.shields.io/badge/Version-1.0.0-orange?style=flat-square" alt="Version" />
+<img src="https://img.shields.io/github/issues/eshat69/crime-records-hybrid-db" alt="Issues" />
+---
 
 <p>
 A SQL-based crime records management and analytics project designed for crime analysis,
