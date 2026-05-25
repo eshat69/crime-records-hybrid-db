@@ -100,18 +100,14 @@ CREATE TABLE crime_records (
 <p><b>How many crimes happened per city?</b></p>
 <img width="159" height="201" alt="image" src="https://github.com/user-attachments/assets/83140a5c-e3d9-4ae7-a38a-e7f6205a8827" />
 
-<br><br>
 <p><b>How many crimes occurred per state?</b></p>
 <img width="123" height="127" alt="image" src="https://github.com/user-attachments/assets/682d1d7c-c084-459a-acd8-3d522d99d2b2" />
 
-<br><br>
 <h3>Victim Analysis</h3>
-<br><br>
 <p><b>Which gender is most affected by crimes? </b></p>
 <img width="156" height="95" alt="image" src="https://github.com/user-attachments/assets/4034663a-c22d-4f80-a5cf-44cb1b4fffb2" />
 
 <h3>Geomatrical analyysis </h3>
-<br><br>
 <p><b>Which city has the highest crime rate?</b></p>
 <p>
   <strong>Crime Rate Formula:</strong> 
